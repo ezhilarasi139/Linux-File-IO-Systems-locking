@@ -1,8 +1,9 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 
-#### NAME : EZHILARASI N
-#### REG NO : 212224040088
+## NAME : EZHILARASI N
+## REG NO : 212224040088
+## DATE : 17.10.2025
 # AIM:
 To Write a C program that illustrates files copying and locking
 
